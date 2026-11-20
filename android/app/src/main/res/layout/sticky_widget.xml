@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/sticky_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/sticky_widget_bg"
+    android:padding="12dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BYTE · stickies"
+        android:textColor="#8A7A1A"
+        android:textSize="11sp"
+        android:letterSpacing="0.08"
+        android:textAllCaps="true"
+        android:paddingBottom="4dp" />
+
+    <TextView android:id="@+id/sticky_empty" style="@style/StickyLine"
+        android:text="Pin a note, recording, photo or link in BYTE and it shows up here."
+        android:textColor="#8A7A1A" />
+
+    <TextView android:id="@+id/sticky_1" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_2" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_3" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_4" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_5" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_6" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_7" style="@style/StickyLine" />
+    <TextView android:id="@+id/sticky_8" style="@style/StickyLine" />
+</LinearLayout>

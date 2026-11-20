@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="checklist_widget_desc">Your BYTE checklist: tap a line to tick it</string>
+    <color name="cw_paper">#F6F4EE</color>
+    <color name="cw_line">#22000000</color>
+    <color name="cw_ink">#14181B</color>
+    <color name="cw_faint">#6F767C</color>
+    <color name="cw_green">#1F9D5B</color>
+</resources>

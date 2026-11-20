@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- One open item in the home-screen checklist. -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cw_item"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textColor="@color/cw_ink"
+    android:textSize="15sp"
+    android:paddingTop="8dp"
+    android:paddingBottom="8dp"
+    android:maxLines="2"
+    android:ellipsize="end" />

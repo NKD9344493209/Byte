@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cw_paper">#1B1F22</color>
+    <color name="cw_line">#22FFFFFF</color>
+    <color name="cw_ink">#ECEFF1</color>
+    <color name="cw_faint">#9AA1A7</color>
+    <color name="cw_green">#2FBF71</color>
+</resources>
